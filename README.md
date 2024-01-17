@@ -1,2 +1,3 @@
-# SuCannedTextComposer
+# CannedTextComposer
  
+yeah!
